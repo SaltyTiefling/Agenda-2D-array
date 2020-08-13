@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda 2D array", "Agenda 2D array.csproj", "{33548742-F99E-4152-9CA4-2F1412E61D18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33548742-F99E-4152-9CA4-2F1412E61D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33548742-F99E-4152-9CA4-2F1412E61D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33548742-F99E-4152-9CA4-2F1412E61D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33548742-F99E-4152-9CA4-2F1412E61D18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A806073-6DC9-4EA9-ABAD-B9A585ACD7C3}
+	EndGlobalSection
+EndGlobal
